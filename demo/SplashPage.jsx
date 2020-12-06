@@ -4,9 +4,6 @@ import Dashboard from '../src/dashboard/Dashboard';
 
 const SplashPage = () => (
   <div>
-    <Button variant="contained" color="primary">
-      Hello World
-    </Button>
     <Dashboard />
   </div>
 );
